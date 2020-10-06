@@ -1,0 +1,18 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: cloud-provider-hysstrix-payment
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
+      url: jdbc:mysql://118.31.103.39:3306/Ken_demo
+      username: root
+      password: 123456
+
+eureka:
+  client:
+    register-with-eureka: true  #表示是否将自己注册进EurekaServer，默认为true
+    fetch-registry: true        #是否从eurekaServer抓去已有的注册信息，集群必须设置为true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka

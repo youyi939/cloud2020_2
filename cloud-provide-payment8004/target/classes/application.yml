@@ -1,0 +1,13 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: cloud-provide-payment
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
+    url: jdbc:mysql://118.31.103.39:3306/Ken_demo
+    username: root
+    password: 123456
+  cloud:
+    zookeeper:
+      connect-string: www.cjlly.com:2181

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/text" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/8802/pom.xml" />
+        <option value="$PROJECT_DIR$/abcd/pom.xml" />
+        <option value="$PROJECT_DIR$/abcde/pom.xml" />
+        <option value="$PROJECT_DIR$/abcdefg/pom.xml" />
+        <option value="$PROJECT_DIR$/bcd/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider-8801/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka0000/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka7777/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka8888/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka999/pom.xml" />
+        <option value="$PROJECT_DIR$/text/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

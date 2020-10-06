@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-client3366" />
+        <module name="bcd" />
+        <module name="cloud-provide-payment8004" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-stream-rabbitmq-consumer-8802" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="demo" />
+        <module name="cloud-consumerzk-order80" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="cloud-stream-rabbitmq-provider-8001" />
+        <module name="cloud-config-center-3344" />
+        <module name="text" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-providerconsul-payment8006" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-stream-rabbitmq-provider-8801" />
+        <module name="cloud-stream-rabbitmq-consumer-8803" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-config-client-3355" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abcd" target="1.8" />
+      <module name="abcde" target="1.8" />
+      <module name="abcdefg" target="1.8" />
+      <module name="bcd" target="1.8" />
+      <module name="cloud-stream-rabbitmq-consumer8802" target="1.8" />
+      <module name="cloud-stream-rabbitmq-provider-8001" target="1.8" />
+      <module name="cloud-stream-rabbitmq-provider-8801" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="eureka0000" target="1.8" />
+      <module name="eureka7777" target="1.8" />
+      <module name="eureka8888" target="1.8" />
+      <module name="eureka999" target="1.8" />
+      <module name="text" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+    </option>
+  </component>
+</project>
