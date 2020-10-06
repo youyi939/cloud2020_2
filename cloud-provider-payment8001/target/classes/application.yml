@@ -10,6 +10,11 @@ spring:
     url: jdbc:mysql://118.31.103.39:3306/Ken_demo
     username: root
     password: 123456
+  zipkin:         #设置zipkin地址
+    base-url: http://127.0.0.1:9411
+  sleuth:
+    sampler:            #采样率值介乎于0-1之间，1代表全部采集
+      probability: 1
 
 eureka:
   client:

@@ -24,11 +24,15 @@
         <module name="cloud-provider-hystrix-payment8001" />
         <module name="cloud-consumer-feign-order80" />
         <module name="cloud-providerconsul-payment8006" />
+        <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-api-commons" />
         <module name="cloud-provider-payment8001" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-provider-payment9001" />
         <module name="cloud-gateway-gateway9527" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloud-stream-rabbitmq-provider-8801" />
         <module name="cloud-stream-rabbitmq-consumer-8803" />
         <module name="cloud-consumer-order80" />
